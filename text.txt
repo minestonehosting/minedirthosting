@@ -1,4 +1,3 @@
-
   <nav>
   
     | <a href="Home.html">Home</a> |
@@ -15,3 +14,7 @@
 
 
   <img src="Minedirt.jpg" alt="MinedirtHosting">
+
+
+<video src=".mp4" controls="controls" width="500" height="280">
+  Fallback content like flash video goes here
