@@ -1,0 +1,17 @@
+
+  <nav>
+  
+    | <a href="Home.html">Home</a> |
+    <a href="Free Hosting.html">Free Hosting</a> |
+    <a href="Tutorials.html">Tutorials</a> |
+    <a href="announce.html">Announce</a> |
+    <a href="LOGIN.html">LOGIN</a> |
+    
+  </nav>
+
+
+&copy; 2015 All Rights Reserved.
+
+
+
+  <img src="Minedirt.jpg" alt="MinedirtHosting">
